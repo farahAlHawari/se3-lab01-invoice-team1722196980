@@ -43,7 +43,7 @@
 
 ## مخطط UML
 
-![UML Class Diagram](docs/UML class diagram/uml-diagram.png)
+![UML Class Diagram](https://github.com/farahAlHawari/se3-lab01-invoice-team1722196980/blob/56e1b553be9ef8eeae45d7cfb1e96d7f3b642d3b/Homework2/docs/UML%20class%20diagram/uml-diagram.png)
 
 
 ## مثال تشغيل
