@@ -1,4 +1,4 @@
-# Homework 2 — Design Patterns (نظام إدارة طلبات بسيط)
+# Homework 2 — Design Patterns 
 
  تطبيق خمسة أنماط تصميم (State, Strategy, Adapter, Facade, Decorator) على حالة متجر إلكتروني، بلغة **Java** .
 
@@ -7,15 +7,6 @@
 ### من IntelliJ IDEA
 1. افتح المشروع، حدّد المجلد `Homework2/src` كـ **Sources Root** (زر أيمن ← Mark Directory as ← Sources Root).
 2. شغّل `hw2.Main` للقائمة التفاعلية، أو `hw2.Demo` لتشغيل السيناريوهات تلقائياً.
-
-### من سطر الأوامر
-من جذر المشروع:
-
-```bash
-javac -d out -sourcepath Homework2/src Homework2/src/hw2/Main.java Homework2/src/hw2/Demo.java
-java -cp out hw2.Main     # القائمة التفاعلية
-java -cp out hw2.Demo     # السيناريوهات الجاهزة
-```
 
 ### قائمة البرنامج
 ```
@@ -52,7 +43,7 @@ java -cp out hw2.Demo     # السيناريوهات الجاهزة
 
 ## مخطط UML
 
-![UML Class Diagram](docs/uml-diagram.png)
+![UML Class Diagram](docs/UML class diagram/uml-diagram.png)
 
 
 ## مثال تشغيل
